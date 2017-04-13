@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#ff9191"
     tools:context="youn0045.kr.hs.emirim.activitytest.MainActivity">
 
     <Button
@@ -11,6 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Open New Activity"
+        android:background="#f7dfdf"
         />
 
 </LinearLayout>
